@@ -1,4 +1,4 @@
-# 🔤 String Manipulation Client-Server Application
+# 🔤 String Manipulation Client-Server socketsApplication
 
 ## 📌 Overview
 
